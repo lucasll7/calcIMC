@@ -1,0 +1,22 @@
+/*caixa da calculadora*/
+#container{
+    font-size: 1em;
+    width: 35%;
+    height: 50%;
+    margin-top: 7%;
+    padding: 2%;
+    background: orange;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 4px;
+}
+h1{
+    text-align: center;
+}
+#resultado{
+    background: black;
+    margin-top: 7%;
+    border-radius: 5px;
+    padding: 2%;
+    color: white;
+}
+
